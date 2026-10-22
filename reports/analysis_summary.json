@@ -1,0 +1,32 @@
+{
+  "as_of": "2026-12-31 23:59:59",
+  "kpis": {
+    "Total Tickets": 20000,
+    "Open Tickets": 109,
+    "Closed Tickets": 15667,
+    "Resolved Tickets": 3694,
+    "Cancelled Tickets": 530,
+    "Reopened Tickets": 862,
+    "SLA Compliance %": 81.42,
+    "SLA Breach %": 18.58,
+    "Average Resolution Time Hours": 15.2,
+    "Median Resolution Time Hours": 9.6,
+    "Min Resolution Time Hours": 0.36,
+    "Max Resolution Time Hours": 337.79,
+    "95th Percentile Resolution Time Hours": 49.21,
+    "Average First Response Minutes": 30.2,
+    "Average Active Ticket Age Hours": 926.78,
+    "Average Customer Satisfaction": 4.32,
+    "Total SLA Breaches": 3616,
+    "Critical Ticket Count": 349,
+    "High Priority Ticket Count": 3144,
+    "Medium Priority Ticket Count": 11505,
+    "Low Priority Ticket Count": 5002,
+    "Reopened Ticket %": 4.31,
+    "Current Backlog": 109
+  },
+  "csat_resolution_correlation": -0.3544,
+  "resolution_outlier_threshold_hours": 36.67,
+  "insight_count": 23,
+  "recommendation_count": 10
+}

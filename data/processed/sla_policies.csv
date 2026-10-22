@@ -1,0 +1,5 @@
+Priority,SLA_Target_Hours
+Critical,4.0
+High,8.0
+Medium,24.0
+Low,48.0

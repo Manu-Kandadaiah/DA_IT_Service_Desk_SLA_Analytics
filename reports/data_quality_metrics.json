@@ -1,0 +1,56 @@
+{
+  "before": {
+    "rows": 20090,
+    "columns": 24,
+    "duplicates_full": 90,
+    "duplicate_ticket_ids": 90,
+    "missing": {
+      "Resolved_Date": 636,
+      "Closed_Date": 4351,
+      "Assigned_Technician": 130,
+      "Asset_ID": 7501,
+      "Resolution_Time_Hours": 636,
+      "Customer_Satisfaction": 5114
+    }
+  },
+  "after": {
+    "rows": 20000,
+    "columns": 38,
+    "duplicates_full": 0,
+    "duplicate_ticket_ids": 0,
+    "missing": {
+      "Resolved_Date": 633,
+      "Closed_Date": 4333,
+      "Asset_ID": 7468,
+      "Resolution_Time_Hours": 633,
+      "SLA_Remaining_Hours": 530,
+      "Customer_Satisfaction": 5106,
+      "Resolved_Timestamp": 633,
+      "Ticket_Age_Hours": 530
+    }
+  },
+  "validation": {
+    "cleaned_unique_ticket_ids": true,
+    "invalid_priority_values": 0,
+    "invalid_status_values": 0,
+    "invalid_channel_values": 0,
+    "invalid_employee_fk": 0,
+    "invalid_technician_fk": 0,
+    "invalid_asset_fk": 0,
+    "negative_resolution_time": 0,
+    "negative_first_response": 0,
+    "resolved_before_created": 0,
+    "closed_before_resolved": 0,
+    "sla_target_mismatch": 0,
+    "sla_calculation_mismatch_resolved": 0,
+    "invalid_csat_after_cleaning": 0
+  },
+  "controlled_issue_counts": {
+    "invalid_created_time": 0,
+    "invalid_csat_detected": 12,
+    "missing_technician_before_imputation": 130,
+    "invalid_resolution_codes": 10,
+    "resolution_outliers_flagged_not_deleted": 1578,
+    "outlier_threshold_hours": 36.67
+  }
+}

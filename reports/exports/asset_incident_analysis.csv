@@ -1,0 +1,10 @@
+Asset_Type,Operating_System,Tickets,SLA_Breaches,Avg_Resolution_Hours,Reopened
+Laptop,Windows 10,3388,740,17.45223032512914,156
+Laptop,Windows 11,2912,699,18.412733073378234,154
+Desktop,Windows 10,1742,370,16.882993479549498,74
+Desktop,Windows 11,1382,284,16.968292319164803,55
+Printer,Embedded,556,96,17.150666666666666,25
+Mobile,Android,436,107,17.43637440758294,24
+Mobile,iOS,414,99,17.43466501240695,20
+Network Device,Windows Server 2022,214,46,16.5409900990099,10
+Network Device,Network OS,169,35,15.86320987654321,8

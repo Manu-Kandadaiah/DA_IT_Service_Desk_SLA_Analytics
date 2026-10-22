@@ -1,0 +1,25 @@
+# Business Insights
+
+- 1. Account/Password generated the highest ticket volume with 2,836 tickets (14.2% of all tickets).
+- 2. Application had the highest category SLA breach rate at 36.6% among measurable tickets.
+- 3. Sales generated the most tickets with 3,209 incidents.
+- 4. Finance had the highest departmental SLA breach rate at 19.8%.
+- 5. Critical priority had the highest SLA breach rate at 51.5%.
+- 6. Low priority had the longest average resolution time at 18.26 hours; this is separate from its SLA target and breach rate.
+- 7. SLA compliance across measurable tickets was 81.42%; 3,616 tickets were classified as breached.
+- 8. Sep 2026 had the highest ticket volume with 959 tickets.
+- 9. Oct 2026 recorded the highest monthly SLA-breach count with 211 breaches.
+- 10. Ticket volume changed by 7.6% in 2026 versus 2025.
+- 11. The current backlog is 109 tickets; 72 have aged more than 7 days.
+- 12. Medium is the largest backlog priority with 62 active tickets.
+- 13. Technician workload is intentionally uneven: Diya Menon handled 1,812 tickets while Deepak Gupta handled 274.
+- 14. Windows had the highest category reopen rate at 5.92%.
+- 15. Overall reopen rate was 4.31%.
+- 16. Average CSAT was 4.32/5 across 14,894 survey responses.
+- 17. Application had the lowest category average CSAT at 4.18/5 among returned surveys.
+- 18. Resolution time and CSAT had a Pearson correlation of -0.354; this is an association and does not prove that longer resolution time alone causes lower satisfaction.
+- 19. Portal was the most-used support channel with 7,359 tickets.
+- 20. The categories needed to reach roughly 80% of incident volume are: Account/Password, Software, Windows, Access Management, Hardware, Application, Email/Outlook, Network.
+- 21. Laptop / Windows 10 generated the largest asset-linked incident combination with 3,388 tickets.
+- 22. Monday had the highest day-of-week ticket volume with 3,904 tickets across the two-year period.
+- 23. Average resolution time was 15.20 hours, median 9.60 hours, and the 95th percentile 49.21 hours, showing a long tail of difficult incidents.

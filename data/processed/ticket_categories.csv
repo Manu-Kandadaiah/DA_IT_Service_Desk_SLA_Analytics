@@ -1,0 +1,55 @@
+Category_ID,Category,Subcategory,Default_Team,Baseline_Resolution_Hours
+CAT01-01,Hardware,Laptop,Desktop Support,14.0
+CAT01-02,Hardware,Desktop,Desktop Support,14.0
+CAT01-03,Hardware,Keyboard,Desktop Support,14.0
+CAT01-04,Hardware,Mouse,Desktop Support,14.0
+CAT01-05,Hardware,Monitor,Desktop Support,14.0
+CAT01-06,Hardware,Docking Station,Desktop Support,14.0
+CAT02-01,Software,Installation,Application Support,11.0
+CAT02-02,Software,License,Application Support,11.0
+CAT02-03,Software,Crash,Application Support,11.0
+CAT02-04,Software,Performance,Application Support,11.0
+CAT02-05,Software,Configuration,Application Support,11.0
+CAT03-01,Network,Wi-Fi,Network Support,10.0
+CAT03-02,Network,LAN,Network Support,10.0
+CAT03-03,Network,Internet,Network Support,10.0
+CAT03-04,Network,DNS,Network Support,10.0
+CAT03-05,Network,Connectivity,Network Support,10.0
+CAT04-01,Email/Outlook,Outlook,Service Desk,6.0
+CAT04-02,Email/Outlook,Mailbox,Service Desk,6.0
+CAT04-03,Email/Outlook,Email Delivery,Service Desk,6.0
+CAT04-04,Email/Outlook,Password,Service Desk,6.0
+CAT04-05,Email/Outlook,Calendar,Service Desk,6.0
+CAT05-01,Access Management,Active Directory,Security & Access,7.0
+CAT05-02,Access Management,File Share,Security & Access,7.0
+CAT05-03,Access Management,Application Access,Security & Access,7.0
+CAT05-04,Access Management,Group Access,Security & Access,7.0
+CAT06-01,VPN,Connection,Network Support,8.0
+CAT06-02,VPN,Authentication,Network Support,8.0
+CAT06-03,VPN,Client Configuration,Network Support,8.0
+CAT06-04,VPN,Performance,Network Support,8.0
+CAT07-01,Printer,Print Queue,Desktop Support,7.0
+CAT07-02,Printer,Driver,Desktop Support,7.0
+CAT07-03,Printer,Paper Jam,Desktop Support,7.0
+CAT07-04,Printer,Network Printer,Desktop Support,7.0
+CAT07-05,Printer,Toner,Desktop Support,7.0
+CAT08-01,Windows,Windows Update,Desktop Support,12.0
+CAT08-02,Windows,Login,Desktop Support,12.0
+CAT08-03,Windows,Performance,Desktop Support,12.0
+CAT08-04,Windows,Blue Screen,Desktop Support,12.0
+CAT08-05,Windows,Configuration,Desktop Support,12.0
+CAT09-01,Security,Antivirus Alert,Security & Access,10.0
+CAT09-02,Security,Phishing,Security & Access,10.0
+CAT09-03,Security,Account Lock,Security & Access,10.0
+CAT09-04,Security,Malware,Security & Access,10.0
+CAT09-05,Security,Endpoint Compliance,Security & Access,10.0
+CAT10-01,Application,ERP,Application Support,14.0
+CAT10-02,Application,CRM,Application Support,14.0
+CAT10-03,Application,Browser,Application Support,14.0
+CAT10-04,Application,Business Application,Application Support,14.0
+CAT10-05,Application,Database Client,Application Support,14.0
+CAT11-01,Account/Password,Password Reset,Service Desk,3.5
+CAT11-02,Account/Password,Account Locked,Service Desk,3.5
+CAT11-03,Account/Password,MFA,Service Desk,3.5
+CAT11-04,Account/Password,New Account,Service Desk,3.5
+CAT11-05,Account/Password,Password Expired,Service Desk,3.5

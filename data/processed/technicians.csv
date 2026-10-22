@@ -1,0 +1,26 @@
+Technician_ID,Technician_Name,Team,Experience_Level,Location,Joining_Date
+TECH001,Kavya Kumar,Service Desk,Senior,Chennai,2024-01-24
+TECH002,Ishaan Gupta,Desktop Support,Senior,Kochi,2024-08-26
+TECH003,Meera Kapoor,Network Support,Senior,Mumbai,2023-05-25
+TECH004,Aditya Iyer,Application Support,Junior,Bengaluru,2020-05-12
+TECH005,Asha Menon,Security & Access,Senior,Hyderabad,2019-05-24
+TECH006,Raj Reddy,Network Support,Intermediate,Pune,2017-11-07
+TECH007,Diya Menon,Application Support,Junior,Bengaluru,2024-01-06
+TECH008,Pranav Nair,Desktop Support,Intermediate,Bengaluru,2021-04-20
+TECH009,Pooja Rao,Network Support,Junior,Bengaluru,2016-11-03
+TECH010,Vivek Kumar,Service Desk,Intermediate,Mumbai,2020-06-28
+TECH011,Anisha Rao,Service Desk,Intermediate,Chennai,2017-12-11
+TECH012,Karthik Shah,Desktop Support,Intermediate,Hyderabad,2016-09-23
+TECH013,Deepak Gupta,Network Support,Junior,Bengaluru,2018-11-12
+TECH014,Karthik Singh,Service Desk,Intermediate,Mumbai,2017-03-31
+TECH015,Anisha Gupta,Desktop Support,Intermediate,Bengaluru,2020-10-08
+TECH016,Aditya Kapoor,Security & Access,Intermediate,Hyderabad,2023-02-21
+TECH017,Rohan Menon,Service Desk,Junior,Delhi,2024-06-13
+TECH018,Bhavna Patel,Service Desk,Junior,Mumbai,2019-04-26
+TECH019,Varun Kumar,Network Support,Senior,Hyderabad,2019-09-18
+TECH020,Meera Sharma,Desktop Support,Junior,Pune,2019-03-26
+TECH021,Vikram Iyer,Security & Access,Senior,Bengaluru,2023-04-28
+TECH022,Kabir Bhat,Application Support,Intermediate,Bengaluru,2023-07-17
+TECH023,Vikram Shetty,Service Desk,Senior,Mumbai,2019-03-26
+TECH024,Anisha Mehta,Desktop Support,Intermediate,Chennai,2022-04-01
+TECH025,Ishaan Desai,Security & Access,Senior,Kochi,2015-01-25

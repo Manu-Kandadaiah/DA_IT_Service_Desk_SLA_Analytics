@@ -1,0 +1,24 @@
+KPI,Value
+Total Tickets,20000.0
+Open Tickets,109.0
+Closed Tickets,15667.0
+Resolved Tickets,3694.0
+Cancelled Tickets,530.0
+Reopened Tickets,862.0
+SLA Compliance %,81.42
+SLA Breach %,18.58
+Average Resolution Time Hours,15.2
+Median Resolution Time Hours,9.6
+Min Resolution Time Hours,0.36
+Max Resolution Time Hours,337.79
+95th Percentile Resolution Time Hours,49.21
+Average First Response Minutes,30.2
+Average Active Ticket Age Hours,926.78
+Average Customer Satisfaction,4.32
+Total SLA Breaches,3616.0
+Critical Ticket Count,349.0
+High Priority Ticket Count,3144.0
+Medium Priority Ticket Count,11505.0
+Low Priority Ticket Count,5002.0
+Reopened Ticket %,4.31
+Current Backlog,109.0

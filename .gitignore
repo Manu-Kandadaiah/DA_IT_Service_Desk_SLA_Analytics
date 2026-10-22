@@ -1,0 +1,27 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+# Secrets and local databases
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+*.db-wal
+*.db-shm
+*.pem
+*.key
+# Temporary output
+*.log
+~$*.xlsx
+.ipynb_checkpoints/
