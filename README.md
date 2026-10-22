@@ -91,6 +91,3 @@ it-service-desk-sla-analytics/
 3. Review `python/clean_data.py` and `python/analysis.py` for the analytical workflow.
 4. Browse the notebooks and SQL scripts for implementation details.
 
-## Publishing to GitHub
-
-See [`GITHUB_UPLOAD_GUIDE.md`](GITHUB_UPLOAD_GUIDE.md) for exact commands and the upload/exclusion checklist.
